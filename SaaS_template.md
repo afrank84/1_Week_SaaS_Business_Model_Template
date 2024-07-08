@@ -5,6 +5,7 @@ Creating a SaaS business in one week is a highly ambitious goal, but with a stru
 1. **Identify the Problem and Solution**:
    - Clearly define the problem your SaaS will solve.
    - Validate the demand for your solution through quick market research (surveys, forums, social media).
+     - Can you sell this to 10 people?
 
 2. **Define Your Target Audience**:
    - Identify who will benefit from your SaaS.
